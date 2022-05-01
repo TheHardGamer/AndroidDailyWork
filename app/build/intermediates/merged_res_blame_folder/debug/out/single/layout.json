@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_layout.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_linear_layout.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_linear_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_android_task3.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_android_task3.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fragment.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_nav_drawer.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\app_bar_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_box.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_2.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_log.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_intent.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bluetooth.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_proximity.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_proximity.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_spin.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_spin.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_relative.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_relative.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_1.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_custom_list.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_custom_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lifecycle.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_lifecycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_nav_drawer.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\nav_header_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recyclerviewlayout.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\recyclerviewlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tab.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_drawer2.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_nav_drawer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sensor.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recycler_view.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_first.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_nav_drawer.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\content_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_android_task2.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_android_task2.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tab.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\150299\\Desktop\\Mainapp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    }
+]

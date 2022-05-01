@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TRB</string>
+    <string name="change_laguage">Change laguage</string>
+    <string name="exit">exit</string>
+    <string name="first_activity">पहली गतिविधि</string>
+    <string name="h">Testing Hello</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert">Insert</string>
+    <string name="intent_activity">Intent activity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="placeholder">Enter your message here</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="stop_music">Stop music</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+</resources>
